@@ -1,4 +1,4 @@
-osx
+os x
 ===
 
-Seminário sobre o sistema operacional MAC OS
+Seminário sobre o sistema operacional OS X
